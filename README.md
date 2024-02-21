@@ -1,11 +1,10 @@
-### Hi there, I'm Nils 👋
+### Hey everyone, Nils here! 👋
 
-I hope my tools and programs are also helpful for you.
-Most of the stuff are Bash scripts or Perl utilities.
-I'm more Ops than Dev and always happy to receive pull requests.
+I'm primarily an Ops guy with a toolbox of Bash scripts and Perl utilities,
+hoping they might be useful for your projects too.
+Pull requests are always welcome!
 
-I'm also on [LinkedIn](https://www.linkedin.com/in/cyclenerd/).
-Feel free to send me a connect request.
+You can also find me on [LinkedIn](https://www.linkedin.com/in/cyclenerd/) if you want to connect.
 
 ---
 
